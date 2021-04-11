@@ -7,5 +7,6 @@ This contains my forked version of DWM. A bit convoluted to sync with the origin
 Each of the branches of this repo contains the following the changes:
 
 * `master` - Just original branch to sync with DWM git's repository.
-* `config` - My personal configuration file.
+* `config` - My personal configuration file - It also has all patches applied.
+* `fullgaps` - It includes the fullgaps patch.
 
